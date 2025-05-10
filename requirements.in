@@ -1,0 +1,9 @@
+polars
+matplotlib
+seaborn
+jupyterlab
+pyarrow
+loguru
+watermark
+nb-clean
+ruff
