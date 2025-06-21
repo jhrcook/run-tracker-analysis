@@ -73,3 +73,24 @@ N001,5/3/25 9:11 AM,11.01,1h 28m 32s,1h 29m 15s,0h 8m 2s,Partly Cloudy,FALSE,7
 N001,5/6/25 7:08 AM,5.10,0h 38m 45s,0h 38m 45s,0h 7m 36s,Fog,FALSE,51,100,Fan Pier,
 N001,5/7/25 11:16 AM,7.15,0h 54m 38s,0h 54m 38s,0h 7m 38s,Mostly Cloudy,FALSE,65,73,Leiden Center 1,
 N001,5/9/25 8:42 AM,12.06,1h 37m 53s,1h 39m 16s,0h 8m 7s,Fog,TRUE,50,96,629 Tremont,Felt good
+B010,5/11/25 11:11 AM,3.09,0h 23m 49s,0h 26m 12s,0h 7m 42s,Fair,FALSE,63,35,629 Tremont,"Different route for short, easy run"
+N001,5/12/25 9:54 AM,6.2,0h 44m 47s,0h 44m 47s,0h 7m 13s,Fair,FALSE,62,26,Leiden Center 1,
+N001,5/13/25 6:59 AM,3.4,0h 25m 48s,0h 26m 2s,0h 7m 35s,Mostly Cloudy,FALSE,57,62,Fan Pier,
+N001,5/15/25 9:18 AM,11.05,1h 26m 6s,1h 30m 47s,0h 7m 48s,Light Rain,TRUE,57,96,629 Tremont,"Felt good; ate early, 2 Gu gels, one caffeine one not; good temp for running"
+N001,5/20/25 7:11 AM,6.34,0h 47m 26s,0h 47m 26s,0h 7m 29s,Cloudy,FALSE,49,66,Fan Pier,
+N001,5/21/25 10:35 AM,9.13,1h 7m 11s,1h 7m 19s,0h 7m 22s,Cloudy,TRUE,49,66,Leiden Center 1,Only one small water break; no food; felt fine
+N001,5/23/25 8:42 AM,14.01,1h 47m 40s,1h 50m 28s,0h 7m 41s,Cloudy,TRUE,47,80,629 Tremont,Food every 35 min.
+N001,5/27/25 7:13 AM,4.04,0h 28m 37s,0h 28m 37s,0h 7m 5s,Fair,FALSE,58,72,Fan Pier,
+N001,5/28/25 11:22 AM,7.03,0h 48m 59s,0h 48m 59s,0h 6m 58s,Mostly Cloudy,FALSE,74,48,Leiden Center 1,"Started too quick, but pushed to beat 7 min/mile"
+N001,5/29/25 10:58 AM,4.03,0h 30m 27s,0h 32m 49s,0h 7m 33s,Cloudy,FALSE,64,78,629 Tremont,Intentionally easy pace
+N001,5/31/25 9:04 AM,15.09,1h 58m 6s,2h 2m 44s,0h 7m 50s,Mostly Cloudy,TRUE,62,96,629 Tremont,
+N001,6/3/25 6:53 AM,4.16,0h 30m 17s,0h 30m 17s,0h 7m 17s,Fair,FALSE,59,60,Fan Pier,
+N001,6/4/25 6:30 AM,7.06,0h 51m 17s,0h 51m 18s,0h 7m 16s,Partly Cloudy,FALSE,62,56,Fan Pier,
+N001,6/5/25 6:49 AM,4.18,0h 31m 8s,0h 31m 29s,0h 7m 27s,Fair,FALSE,67,73,Fan Pier,
+N001,6/7/25 8:59 AM,13.23,1h 41m 27s,1h 43m 34s,0h 7m 40s,Cloudy,FALSE,64,87,629 Tremont,Felt good
+N001,6/10/25 6:53 AM,4.15,0h 30m 26s,0h 30m 36s,0h 7m 20s,Mist,FALSE,57,100,Fan Pier,
+N001,6/11/25 10:43 AM,8.13,1h 1m 59s,1h 1m 59s,0h 7m 37s,Fair,FALSE,76,45,Leiden Center 1,"strained quad, muscle and IT"
+N001,6/17/25 10:56 AM,5.02,0h 41m 24s,0h 41m 43s,0h 8m 15s,Mostly Cloudy,FALSE,67,79,Fan Pier,Intentionally easy pace
+N001,6/18/25 9:38 AM,8.12,1h 5m 19s,1h 6m 7s,0h 8m 3s,Light Rain,FALSE,68,93,Leiden Center 1,Intentionally easy pace; stomach a bit upset
+N001,6/19/25 9:35 AM,5.13,0h 41m 28s,0h 42m 54s,0h 8m 5s,Mostly Cloudy,FALSE,78,79,629 Tremont,"Intentionally easy pace; first hot, humid run"
+,,,,,,,FALSE,,,,
