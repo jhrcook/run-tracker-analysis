@@ -133,7 +133,7 @@ MARATHON_TRAINING_STARTDATE = runs_data.filter(
 logger.info(f"Starting marathon training: {MARATHON_TRAINING_STARTDATE}")
 ```
 
-    [32m2025-06-21 06:36:31.757[0m | [1mINFO    [0m | [36m__main__[0m:[36m<module>[0m:[36m4[0m - [1mStarting marathon training: 2025-04-08 10:49:00[0m
+    [32m2025-06-21 06:39:28.256[0m | [1mINFO    [0m | [36m__main__[0m:[36m<module>[0m:[36m4[0m - [1mStarting marathon training: 2025-04-08 10:49:00[0m
 
 
 
@@ -382,11 +382,11 @@ plt.show()
     Git branch: main
     
     matplotlib: 3.10.3
-    IPython   : 9.2.0
     polars    : 1.29.0
-    seaborn   : 0.13.2
     pandas    : 2.2.3
     re        : 2.2.1
+    IPython   : 9.2.0
+    seaborn   : 0.13.2
     
 
 
