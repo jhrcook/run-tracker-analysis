@@ -74,8 +74,8 @@ N001,5/6/25 7:08 AM,5.10,0h 38m 45s,0h 38m 45s,0h 7m 36s,Fog,FALSE,51,100,Fan 
 N001,5/7/25 11:16 AM,7.15,0h 54m 38s,0h 54m 38s,0h 7m 38s,Mostly Cloudy,FALSE,65,73,Leiden Center 1,
 N001,5/9/25 8:42 AM,12.06,1h 37m 53s,1h 39m 16s,0h 8m 7s,Fog,TRUE,50,96,629 Tremont,Felt good
 B010,5/11/25 11:11 AM,3.09,0h 23m 49s,0h 26m 12s,0h 7m 42s,Fair,FALSE,63,35,629 Tremont,"Different route for short, easy run"
-N001,5/12/25 9:54 AM,6.2,0h 44m 47s,0h 44m 47s,0h 7m 13s,Fair,FALSE,62,26,Leiden Center 1,
-N001,5/13/25 6:59 AM,3.4,0h 25m 48s,0h 26m 2s,0h 7m 35s,Mostly Cloudy,FALSE,57,62,Fan Pier,
+N001,5/12/25 9:54 AM,6.20,0h 44m 47s,0h 44m 47s,0h 7m 13s,Fair,FALSE,62,26,Leiden Center 1,
+N001,5/13/25 6:59 AM,3.40,0h 25m 48s,0h 26m 2s,0h 7m 35s,Mostly Cloudy,FALSE,57,62,Fan Pier,
 N001,5/15/25 9:18 AM,11.05,1h 26m 6s,1h 30m 47s,0h 7m 48s,Light Rain,TRUE,57,96,629 Tremont,"Felt good; ate early, 2 Gu gels, one caffeine one not; good temp for running"
 N001,5/20/25 7:11 AM,6.34,0h 47m 26s,0h 47m 26s,0h 7m 29s,Cloudy,FALSE,49,66,Fan Pier,
 N001,5/21/25 10:35 AM,9.13,1h 7m 11s,1h 7m 19s,0h 7m 22s,Cloudy,TRUE,49,66,Leiden Center 1,Only one small water break; no food; felt fine
@@ -93,4 +93,53 @@ N001,6/11/25 10:43 AM,8.13,1h 1m 59s,1h 1m 59s,0h 7m 37s,Fair,FALSE,76,45,Leid
 N001,6/17/25 10:56 AM,5.02,0h 41m 24s,0h 41m 43s,0h 8m 15s,Mostly Cloudy,FALSE,67,79,Fan Pier,Intentionally easy pace
 N001,6/18/25 9:38 AM,8.12,1h 5m 19s,1h 6m 7s,0h 8m 3s,Light Rain,FALSE,68,93,Leiden Center 1,Intentionally easy pace; stomach a bit upset
 N001,6/19/25 9:35 AM,5.13,0h 41m 28s,0h 42m 54s,0h 8m 5s,Mostly Cloudy,FALSE,78,79,629 Tremont,"Intentionally easy pace; first hot, humid run"
-,,,,,,,FALSE,,,,
+N001,6/21/25 8:45 AM,18.01,2h 28m 10s,2h 36m 0s,0h 8m 14s,Fair,FALSE,76,46,629 Tremont,"Got hot during run; started feeling it at 4 miles left, last two were tough"
+N001,6/23/25 11:48 AM,5.06,0h 39m 38s,0h 40m 8s,0h 7m 50s,Mostly Cloudy,FALSE,83,60,Leiden Center 1,
+N001,6/24/25 7:07 AM,7.03,0h 55m 57s,0h 57m 10s,0h 7m 58s,Fair,FALSE,87,63,Fan Pier,
+N001,7/1/25 9:21 AM,5.03,0h 38m 39s,0h 39m 15s,0h 7m 41s,Cloudy,FALSE,79,77,Fan Pier,red-eye flight night before
+N001,7/2/25 10:42 AM,8.08,1h 2m 58s,1h 3m 52s,0h 7m 48s,Cloudy,FALSE,81,69,Leiden Center 1,hard last two miles; hot and humid
+N001,7/3/25 7:50 AM,5.05,0h 38m 35s,0h 38m 41s,0h 7m 38s,Fair,FALSE,78,64,Leiden Center 1,"legs felt a bit tired toward end, also didn’t sleep well"
+N001,7/5/25 7:49 AM,19.04,2h 36m 49s,2h 42m 26s,0h 8m 14s,Partly Cloudy,FALSE,73,46,629 Tremont,"took 2 salt tablets; 4 Gu gels, 3 with 20 mg caffeine, one with 40 mg; stopped at both water fountains in last two miles; water fountain at mile 7 is turned on"
+N001,7/8/25 7:12 AM,5.02,0h 39m 15s,0h 40m 1s,0h 7m 49s,Mostly Cloudy,FALSE,76,91,Fan Pier,
+N001,7/9/25 8:47 AM,8.15,1h 1m 55s,1h 2m 24s,0h 7m 36s,Light Rain,FALSE,68,93,Leiden Center 1,
+N001,7/13/25 8:01 AM,12.00,1h 35m 29s,1h 38m 50s,0h 7m 57s,Mostly Cloudy,FALSE,70,90,629 Tremont,felt strong; had Trader Joe’s orange chicken and rice for dinner last night; multiple days off before
+N001,7/15/25 7:09 AM,5.05,0h 38m 41s,0h 38m 41s,0h 7m 40s,Mostly Cloudy,FALSE,76,87,Fan Pier,
+N001,7/16/25 10:26 AM,5.00,0h 37m 40s,0h 38m 2s,0h 7m 32s,Fair,FALSE,84,69,Leiden Center 1,moderate heat wave
+N001,7/17/25 12:04 PM,5.04,0h 38m 12s,0h 38m 12s,0h 7m 35s,Fair,TRUE,88,59,Leiden Center 1,moderate heat wave
+N001,7/19/25 7:48 AM,26.29,3h 44m 0s,3h 56m 33s,0h 8m 31s,Fair,FALSE,76,50,629 Tremont,planned for a long training run of 21 miles but gave myself permission to go for full marathon if feeling it at mile 21; passed David Goggins on mile 8 and knew it was a sign to go for it
+N001,7/22/25 11:10 AM,5.07,0h 38m 37s,0h 38m 37s,0h 7m 37s,Fair,FALSE,70,44,Fan Pier,
+N001,7/25/25 10:51 AM,7.15,0h 56m 24s,0h 59m 30s,0h 7m 53s,Fair,FALSE,92,51,Leiden Center 1,hot and definitely didn’t feel good the last couple of miles
+B010,8/2/25 10:57 AM,5.13,0h 37m 1s,0h 38m 31s,0h 7m 13s,Fair,FALSE,70,57,629 Tremont,"took a break to let my feet rest, was feeling tenderness in the left arch, new shoes felt good"
+B010,8/7/25 10:54 AM,7.16,0h 49m 9s,0h 49m 12s,0h 6m 52s,Fair,FALSE,77,49,Leiden Center 1,felt great; minor blisters in new shoes
+B010,8/16/25 10:31 AM,5.90,0h 50m 37s,0h 52m 25s,0h 8m 35s,Cloudy,FALSE,70,68,La Crescenta,
+B010,8/26/25 7:03 AM,5.51,0h 41m 25s,0h 41m 25s,0h 7m 31s,Fair,FALSE,65,61,Fan Pier,ran into Mitchell
+B010,8/28/25 10:56 AM,5.34,0h 38m 31s,0h 38m 31s,0h 7m 13s,Fair,FALSE,73,33,Leiden Center 1,
+B010,9/4/25 11:01 AM,6.21,0h 45m 3s,0h 45m 3s,0h 7m 15s,Fair,FALSE,71,66,Leiden Center 1,
+B010,9/10/25 10:12 AM,5.32,0h 38m 5s,0h 38m 8s,0h 7m 10s,Cloudy,FALSE,63,78,Leiden Center 1,
+T001,9/17/25 2:21 PM,6.05,0h 59m 10s,1h 1m 17s,0h 9m 47s,Partly Cloudy,FALSE,80,52,10882 North Meads,"Hot, hilly, and part trail-run"
+T001,9/22/25 12:34 PM,5.29,0h 45m 6s,0h 45m 6s,0h 8m 32s,Partly Cloudy,TRUE,84,46,Tonto Verde,trail run
+T001,9/23/25 12:21 PM,5.18,0h 41m 15s,0h 41m 15s,0h 7m 58s,Fair,FALSE,95,27,Tonto Verde,trail run
+B010,9/27/25 12:25 PM,5.18,0h 38m 1s,0h 38m 1s,0h 7m 20s,Partly Cloudy,FALSE,75,60,86 Marine Rd,foot pain (plantar fasciitis?)
+B010,9/29/25 8:31 AM,5.28,0h 41m 21s,0h 41m 21s,0h 7m 50s,Fair,FALSE,69,49,86 Marine Rd,foot pain (plantar fasciitis?)
+B010,10/1/25 11:34 AM,5.22,0h 40m 1s,0h 40m 1s,0h 7m 40s,Fair,TRUE,61,50,86 Marine Rd,foot pain (plantar fasciitis?)
+B010,10/23/25 11:22 AM,1.12,0h 9m 47s,0h 11m 18s,0h 8m 44s,Fair,FALSE,68,59,La Crescenta,test run from injury
+B010,10/26/25 11:54 AM,1.35,0h 11m 17s,0h 11m 17s,0h 8m 21s,Fair,FALSE,68,65,La Crescenta,test run from injury
+B010,10/29/25 11:53 AM,2.53,0h 19m 28s,0h 20m 22s,0h 7m 42s,Fair,FALSE,91,9,La Crescenta,test run from injury
+B010,10/31/25 12:01 PM,3.66,0h 27m 57s,0h 28m 55s,0h 7m 38s,Fair,FALSE,76,45,La Crescenta,test run from injury
+B010,11/2/25 11:12 AM,4.10,0h 32m 53s,0h 32m 53s,0h 8m 1s,Fair,FALSE,74,53,La Crescenta,"some foot tightness early, but went away"
+B010,11/4/25 11:55 AM,4.87,0h 38m 10s,0h 38m 10s,0h 7m 50s,Fair,FALSE,70,57,La Crescenta,"some foot tightness early, but went away"
+B010,11/6/25 12:22 PM,5.52,0h 44m 42s,0h 44m 42s,0h 8m 6s,Fair,FALSE,70,51,La Crescenta,"some foot tightness early, but went away"
+T001,11/9/25 11:41 AM,6.55,1h 15m 45s,1h 17m 33s,0h 11m 34s,Fair,FALSE,81,27,Angeles NF,trail run; scouting mission for the Arroyo Seco stream
+B010,11/12/25 11:19 AM,5.53,0h 44m 25s,0h 44m 25s,0h 8m 2s,Haze,FALSE,70,51,La Crescenta,a lot easier with cooler temps
+B010,11/16/25 11:00 AM,6.03,0h 47m 54s,0h 47m 54s,0h 7m 57s,Fog,FALSE,58,84,La Crescenta,
+B010,11/18/25 11:49 AM,0.78,0h 6m 35s,0h 6m 39s,0h 8m 26s,Fair,FALSE,55,72,La Crescenta,"mailbox and back, forgot stamps"
+B010,11/18/25 11:59 AM,5.70,0h 47m 49s,0h 49m 10s,0h 8m 23s,Fair,FALSE,55,72,La Crescenta,"felt bad, acid reflux overnight and didn’t sleep well"
+B010,11/20/25 12:02 PM,5.52,0h 43m 39s,0h 43m 39s,0h 7m 54s,Mist,FALSE,58,65,La Crescenta,
+B010,12/1/25 12:38 PM,5.57,0h 45m 16s,0h 45m 16s,0h 8m 8s,Fair,FALSE,68,35,La Crescenta,holding in poop for second half
+B010,12/6/25 12:03 PM,5.53,0h 43m 15s,0h 43m 15s,0h 7m 49s,Fair,FALSE,68,25,La Crescenta,
+B010,12/8/25 12:42 PM,5.54,0h 45m 12s,0h 45m 12s,0h 8m 10s,Fair,FALSE,79,22,La Crescenta,
+B010,12/10/25 11:55 AM,6.03,0h 49m 13s,0h 49m 13s,0h 8m 10s,Fair,FALSE,80,19,La Crescenta,two sets of the final hill
+B010,12/12/25 12:13 PM,5.52,0h 44m 30s,0h 44m 30s,0h 8m 4s,Fair,FALSE,76,26,La Crescenta,
+B010,,,,,,,FALSE,,,,
+B010,,,,,,,FALSE,,,,
+B010,,,,,,,FALSE,,,,

@@ -26,6 +26,11 @@ sns.set_theme(style="whitegrid")
 
 
 ```python
+# TODO: pandera schemas for input data
+```
+
+
+```python
 shoes_data = pl.read_csv("./data/run-tracker/Sheet 1-Shoes.csv").select(
     "UUID", "brand", "model"
 )
@@ -133,7 +138,7 @@ MARATHON_TRAINING_STARTDATE = runs_data.filter(
 logger.info(f"Starting marathon training: {MARATHON_TRAINING_STARTDATE}")
 ```
 
-    [32m2025-06-21 06:39:28.256[0m | [1mINFO    [0m | [36m__main__[0m:[36m<module>[0m:[36m4[0m - [1mStarting marathon training: 2025-04-08 10:49:00[0m
+    [32m2025-12-14 08:48:07.163[0m | [1mINFO    [0m | [36m__main__[0m:[36m<module>[0m:[36m4[0m - [1mStarting marathon training: 2025-04-08 10:49:00[0m
 
 
 
@@ -237,18 +242,27 @@ plt.show()
       <td>N001</td>
       <td>New Balance</td>
       <td>1080 (v14)</td>
-      <td>2191.733333</td>
-      <td>281.39</td>
-      <td>36.528889</td>
+      <td>3400.100000</td>
+      <td>427.46</td>
+      <td>56.668333</td>
     </tr>
     <tr>
       <th>4</th>
       <td>B010</td>
       <td>Brooks</td>
       <td>Ghost 16</td>
-      <td>26.200000</td>
-      <td>3.09</td>
-      <td>0.436667</td>
+      <td>1055.666667</td>
+      <td>134.24</td>
+      <td>17.594444</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>T001</td>
+      <td>Topo Athletic</td>
+      <td>Ultraventure 4</td>
+      <td>225.183333</td>
+      <td>23.07</td>
+      <td>3.753056</td>
     </tr>
   </tbody>
 </table>
@@ -256,7 +270,7 @@ plt.show()
 
 
     
-![png](analysis_files/analysis_12_1.png)
+![png](analysis_files/analysis_13_1.png)
     
 
 
@@ -281,7 +295,7 @@ runs_data.filter(pl.col("is_marathon_training")).with_columns(
   white-space: pre-wrap;
 }
 </style>
-<small>shape: (1, 2)</small><table border="1" class="dataframe"><thead><tr><th>hours run</th><th>distance</th></tr><tr><td>f64</td><td>f64</td></tr></thead><tbody><tr><td>32.828889</td><td>253.06</td></tr></tbody></table></div>
+<small>shape: (1, 2)</small><table border="1" class="dataframe"><thead><tr><th>hours run</th><th>distance</th></tr><tr><td>f64</td><td>f64</td></tr></thead><tbody><tr><td>73.879167</td><td>553.35</td></tr></tbody></table></div>
 
 
 
@@ -312,7 +326,7 @@ plt.show()
 
 
     
-![png](analysis_files/analysis_14_0.png)
+![png](analysis_files/analysis_15_0.png)
     
 
 
@@ -349,7 +363,7 @@ plt.show()
 
 
     
-![png](analysis_files/analysis_15_0.png)
+![png](analysis_files/analysis_16_0.png)
     
 
 
@@ -363,15 +377,15 @@ plt.show()
 %watermark -d -u -v -iv -b -h -m
 ```
 
-    Last updated: 2025-06-21
+    Last updated: 2025-12-14
     
     Python implementation: CPython
     Python version       : 3.12.11
     IPython version      : 9.2.0
     
-    Compiler    : Clang 17.0.0 (clang-1700.0.13.3)
+    Compiler    : Clang 20.1.4 
     OS          : Darwin
-    Release     : 24.5.0
+    Release     : 25.1.0
     Machine     : arm64
     Processor   : arm
     CPU cores   : 12
@@ -381,12 +395,14 @@ plt.show()
     
     Git branch: main
     
-    matplotlib: 3.10.3
+    seaborn   : 0.13.2
+    sys       : 3.12.11 (main, Aug 28 2025, 17:00:08) [Clang 20.1.4 ]
     polars    : 1.29.0
-    pandas    : 2.2.3
     re        : 2.2.1
     IPython   : 9.2.0
-    seaborn   : 0.13.2
+    pandas    : 2.2.3
+    platform  : 1.0.8
+    matplotlib: 3.10.3
     
 
 
