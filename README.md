@@ -8,6 +8,7 @@ uv pip install -r requirements.out
 ```
 
 ```bash
+source .venv/bin/activate
 ruff check --fix analysis.ipynb && ruff format analysis.ipynb
 jupyter nbconvert --inplace --execute analysis.ipynb && \
     jupyter nbconvert --to html analysis.ipynb && \
